@@ -1,1 +1,1 @@
-# TP2-r103 (Wikimedia)
+# TP2-r103 (mediaWiki)
